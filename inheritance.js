@@ -8,6 +8,7 @@ Function.prototype.inherits = function(parent) {
 };
 
 function MovingObject() {
+  
 }
 
 MovingObject.prototype.blowup = function() {
